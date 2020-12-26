@@ -29,6 +29,7 @@ export function App(){
     <>
      <View>
        <Text>hi App</Text>
+       <Text>hi App</Text>
      </View>
     </>
   );
